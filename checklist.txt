@@ -11197,3 +11197,5 @@ D:\CheckSum\ClientFull\Res-Tex\ToolTipList.tex|838AD6B91C8F08105712FA7C9D53AB74
 D:\CheckSum\ClientFull\Res-Tex\tutorial.tex|BB00EB5D6018E64331688661F1772492
 D:\CheckSum\ClientFull\Res-Tex\HD\load.tex|35573B3B8F27C58877D3FDD0A7F6B4D4
 D:\CheckSum\ClientFull\Res-Tex\HD\login.tex|1B1155E24AF447249F763878DBD29C54
+D:\CheckSum\ClientFull\Runtime\dxwebsetup.exe|2CBD6AD183914A0C554F0739069E77D7
+D:\CheckSum\ClientFull\Runtime\MicrosoftEdgeWebview2Setup.exe|DBC06AA42FC27FD5FD0B87B2F9067637
